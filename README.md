@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src="https://github.com/markov42/Flixster/blob/main/CTAmbet%20-%20Imgur.gif" width=200><br>
+<img src="https://github.com/markov42/Flixster2/blob/main/NjqBV6h%20-%20Imgur.gif" width=200><br>
 
 
 GIF created with imgur 

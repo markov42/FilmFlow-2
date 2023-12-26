@@ -1,6 +1,6 @@
-# *Flixster*
+# *FilmFlow-2*
 
-**Flixster** is an part 2 of the Flixster1 app but added the ability to fetch real data from a third party server
+**FilmFlow-2** is a part 2 of the FilmFlow-1 app but added the ability to fetch real data from a third-party server
 
 ## Features
 - [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
